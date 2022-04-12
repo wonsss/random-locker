@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/random-locker/static/js/main.1027112f.js",
+    "main.js": "/random-locker/static/js/main.81f94a58.js",
     "index.html": "/random-locker/index.html",
-    "main.1027112f.js.map": "/random-locker/static/js/main.1027112f.js.map"
+    "main.81f94a58.js.map": "/random-locker/static/js/main.81f94a58.js.map"
   },
   "entrypoints": [
-    "static/js/main.1027112f.js"
+    "static/js/main.81f94a58.js"
   ]
 }
